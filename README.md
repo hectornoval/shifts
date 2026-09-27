@@ -9,4 +9,9 @@
 2. Settings → Pages → Source: "Deploy from a branch" → `main` / `(root)` → Save.
 3. Open `https://<user>.github.io/<repo>/` after ~1 minute.
 
+## Linking to other .md files
+
+`- [Filter](filter.md)` — clicking opens `filter.md` as its own tree (URL becomes `?src=filter.md`).
+Works with files in subfolders (`docs/filter.md`) or any raw GitHub URL.
+
 Edits to `content.md` go live on the next Pages build.

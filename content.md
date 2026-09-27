@@ -8,8 +8,6 @@ Missing branches simply don't render. Link a node with [Label](url).
 - Cell
   - Content type
     - Text / mixed
-        - Indent
-        - [Link](https://ddmmyy.substack.com)
     - Numeric / mixed
     - Numeric stepper
     - Dropdown
