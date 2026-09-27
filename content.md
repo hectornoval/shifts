@@ -1,0 +1,75 @@
+# Table
+
+<!--
+Edit this list to change the tree. Indent 2 spaces per level; any depth works.
+Missing branches simply don't render. Link a node with [Label](url).
+-->
+
+- Cell
+  - Content type
+    - Text / mixed
+    - Numeric / mixed
+    - Numeric stepper
+    - Dropdown
+    - Date-picker
+    - Toggle switch
+    - Icon command
+    - Text command
+  - Interaction
+    - Read-only
+    - Editable
+      - Normal
+      - Hover
+      - Active
+  - Content
+    - Empty
+    - Placeholder
+  - Data quality
+    - Valid
+    - Invalid
+  - Accessories
+    - Error message
+    - Input hint
+- Row
+  - Interaction
+    - Normal
+    - Hover
+    - Selected
+  - Actions
+    - Move up
+    - Move down
+    - Add new
+    - Delete
+- Column
+  - Width
+    - Default
+    - Minimal
+    - Maximal
+  - Actions
+    - Sort
+    - Filter
+      - Alphanumeric
+      - Dropdown
+      - Date-picker
+    - Resize
+- Top bar
+  - Title
+  - Command format
+    - Text
+      - Simple
+      - Dropdown
+    - Icon
+      - Simple
+      - Dropdown
+  - Command state
+    - Enabled normal
+    - Enabled destructive
+    - Disabled
+- Keyboard support
+  - Enter
+  - Tab
+  - Arrow up
+  - Arrow down
+- Error handling
+  - Invalid dependency
+  - Loading failure
