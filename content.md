@@ -8,8 +8,6 @@ Missing branches simply don't render. Link a node with [Label](url).
 - Cell
   - Content type
     - Text / mixed
-      - indent
-    - [Filter](filter.md) 
     - Numeric / mixed
     - Numeric stepper
     - Dropdown

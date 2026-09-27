@@ -14,4 +14,12 @@
 `- [Filter](filter.md)` — clicking opens `filter.md` as its own tree (URL becomes `?src=filter.md`).
 Works with files in subfolders (`docs/filter.md`) or any raw GitHub URL.
 
+## Navigation bar
+
+Edit `nav.md` — one link per bullet: `- [Filter](docs/filter.md)`. Links above the `---` line sit on the left, links below it on the right. Delete the file to hide the bar.
+
+## Breadcrumb
+
+Appears automatically on every linked page and grows as you go deeper (`Table / Filter / Dropdown`). Each crumb uses the file's `# Heading`. Nothing to add in the .md files.
+
 Edits to `content.md` go live on the next Pages build.
