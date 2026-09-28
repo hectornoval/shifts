@@ -1,6 +1,6 @@
 # Nav
 
-- [Shifts and patterns](docs/content.md)
+- [Shifts and patterns](content.md)
 - [Filter](docs/filter.md)
 
 ---
