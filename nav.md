@@ -1,6 +1,6 @@
 # Nav
 
-- [We shift patterns into self-sustaining businesses](content.md)
+- Shifts and patterns
 - [Filter](docs/filter.md)
 
 ---
