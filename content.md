@@ -15,6 +15,16 @@ Missing branches simply don't render. Link a node with [Label](url).
     - Toggle switch
     - Icon command
     - Text command
+- Shifts
+  - Apol
+    - Text / mixed
+    - Numeric / mixed
+  - 30 pieces
+    - Dropdown
+    - Date-picker
+  - 226
+    - Icon command
+    - Text command 
   - Interaction
     - Read-only
     - Editable
